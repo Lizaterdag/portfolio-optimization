@@ -13,7 +13,7 @@ the system to jump between different local minima in the energy landscape. The e
 ## Installation
 
 ``` 
-pip install fix_yahoo_finance 
+pip install dwave-system
 ```
 
 ``` 
