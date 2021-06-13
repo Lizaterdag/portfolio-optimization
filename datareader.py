@@ -61,8 +61,6 @@ def returns_assets(a):
     returns_clean = returns_unclean.dropna()
     return returns_clean
 
-
-
 for key, value in assets_dict.items():
     asset_names.append(key)
     assets.append(value)
