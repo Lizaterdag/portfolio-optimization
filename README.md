@@ -1,4 +1,4 @@
-# portfolio-optimization
+# Portfolio Optimization
 ### Minor Applied Quantum Computing 
 
 Portfolio optimization with quantum annealing. Main goal is to find the optimum solution through different annealing schedules.
