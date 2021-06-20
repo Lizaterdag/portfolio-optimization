@@ -4,7 +4,7 @@
 Portfolio optimization with quantum annealing. Main goal is to find the optimum solution through different annealing schedules.
 
 ## Portfolio optimization
-Rebalacing the combination of asset investment to maximize its return while minimizing its risk. Selecting the best portfolio out of a bunch of portfolios. Input data can be uniform random historical price data, a budget and a risk tolerance. The approach used in this repository is the Markowitz portfolio model for portfolio selection. This model is build into a quadratic unconstrained binary optimization (QUBO) problem:
+Rebalancing the combination of asset investment to maximize its return while minimizing its risk. Selecting the best portfolio out of a bunch of portfolios. Input data can be uniform random historical price data, a budget and a risk tolerance. The approach used in this repository is the Markowitz portfolio model for portfolio selection. This model is build into a quadratic unconstrained binary optimization (QUBO) problem:
 
 ![alt text](files/img/59DB952F-07D7-4F22-BBD2-2B574899D4D1_4_5005_c.jpeg)\
 where:
