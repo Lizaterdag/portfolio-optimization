@@ -61,7 +61,7 @@ pip install pandas_datareader
 pip install numpy 
 ```
 
-You can find the different annealing schedules implemented on the Ising Markowitz model with the Quantum Annealer in the [quantum_annealing.ipynb](https://github.com/Lizaterdag/portfolio-optimization/blob/main/qpu_annealing.ipynb) notebook. Unfortunately did my QPU time expire and wasn't I able to run the last two cells of this notebook. Next month, I will update this notebook with a complete compilation. This code but with the Simulated Annealers is available in the [simulated_annealing.ipynb](https://github.com/Lizaterdag/portfolio-optimization/blob/main/simulated_annealing.ipynb) notebook.
+You can find the different annealing schedules implemented on the Ising Markowitz model with the Quantum Annealer in the [quantum_annealing.ipynb](quantum_annealing.ipynb) notebook. Unfortunately did my QPU time expire and wasn't I able to run the last two cells of this notebook. Next month, I will update this notebook with a complete compilation. This code but with the Simulated Annealers is available in the [simulated_annealing.ipynb](https://github.com/Lizaterdag/portfolio-optimization/blob/main/simulated_annealing.ipynb) notebook.
 
 ## Sources
 [DWave installation](https://docs.ocean.dwavesys.com/projects/system/en/stable/installation.html)\
