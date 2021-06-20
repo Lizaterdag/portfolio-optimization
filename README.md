@@ -53,6 +53,11 @@ pip install numpy
 
 You can find the different annealing schedules implemented on the Ising Markowitz model with the Quantum Annealer in the [quantum_annealing.ipynb](quantum_annealing.ipynb) notebook. Unfortunately did my QPU time expire and wasn't I able to run the last two cells of this notebook. Next month, I will update this notebook with a complete compilation. This code but with the Simulated Annealers is available in the [simulated_annealing.ipynb](https://github.com/Lizaterdag/portfolio-optimization/blob/main/simulated_annealing.ipynb) notebook.
 
+The plots of the schedules are not showing in the notebooks on Github, but when one decides to download the notebooks, the following schedule plots of the pauses and quenches on different slopes are visible:
+
+![](files/img/627A7AE7-7C3A-4BCA-B381-E11822FA5776.jpeg)
+![](files/img/57FC68D0-F227-40A8-8A7F-064FD684A2CB.jpeg)
+
 ## Sources
 [DWave installation](https://docs.ocean.dwavesys.com/projects/system/en/stable/installation.html)\
 [Paper on Portfolio management using Adiabatic Quantum Optimization](https://www.osti.gov/servlets/purl/1423041)\
