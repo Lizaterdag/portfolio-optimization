@@ -39,25 +39,15 @@ It is possible to make use of the DWave Quantum Computer. By creating an account
 
 ``` 
 pip install dwave-system
-```
 
-``` 
 pip install dwave-neal 
-```
 
-``` 
 pip install dimod
-```
 
-``` 
 pip install pandas 
-```
 
-``` 
 pip install pandas_datareader 
-```
 
-``` 
 pip install numpy 
 ```
 
