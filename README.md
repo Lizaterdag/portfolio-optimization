@@ -33,7 +33,7 @@ the system to jump between different local minima in the energy landscape. The e
 
 ![alt text](files/img/97F12058-CE27-4CD1-9416-8057D5B0F6A3.jpeg)
 ## Dwave Leap
-It is possible to make use of the DWave Quantum Computer. By creating an account on Dwave Leap, it is possible to receive some QPU time, which is only avaible for just a month. By clicking on 'GET MORE TIME', it is possible to have more access on the QPU by getting the developer access. By following the instructions, one may receive limited access on the QPU every month. Be aware that one only gets 1 minute of compile time on the QPU without a paid license. 
+It is possible to make use of the DWave Quantum Computer. By creating an account on Dwave Leap, it is possible to receive some limited QPU time, which is only aavailable for just a month. By clicking on 'GET MORE TIME', it is possible to have more access on the QPU by getting the developer access. By following the instructions, one may receive limited access on the QPU every month. Be aware that one only gets 1 minute of compile time on the QPU without a paid license. 
 
 ## Installation
 
